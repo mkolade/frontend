@@ -3,8 +3,8 @@ import "./menu.css"
  const MenuBar = () => {
 
     return(
-        <div className="menuBar">
-            h2
+        <div className="menuBar underline">
+            menu
         </div>
     );
 }

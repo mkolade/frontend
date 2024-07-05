@@ -4,7 +4,7 @@ const App = () => {
   return (
     <main className="myMain">
        <MenuBar/>
-       <h2>jnksd</h2>
+       
     </main>
   );
 }
